@@ -1,9 +1,9 @@
-NY Times Bestselling Books
+NY Times Bestselling Books <br>
 Required Features
 The core requirements are to create an app that allows the user to scroll through a list of books. They should be able to see the book's ranking, cover, title, author, and description
 🎯 Goals
 By the end of this lab you will be able to...
-
+ <br>
 Request data from an API
 Parse data into a Kotlin model
 Bind data to View objects
@@ -15,14 +15,15 @@ Books are displayed using a RecyclerView
 Book cover images are downloaded and displayed using Glide
 Stretch Features
 The stretch features will help develop this app into something closer to the NY Times website.
-
+ <br>
 View elements are styled in the .xml files
 The "Buy" button successfully opens the page on Amazon
+ <br>
 
 Here's a walkthrough of implemented user stories:
 <!-- Recommended tools:
 [ScreenToGif](https://www.screentogif.com/) for Windows
-
+ <br>
 <img src='NYBestseller.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## License
 
